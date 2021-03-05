@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Online Absensi QR Code</string>
+    <string name="log_out">Log Out</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="belum_punya_akun">Belum Punya Akun?</string>
+    <string name="lupa_password">Lupa Password?</string>
+    <string name="login">Login</string>
+    <string name="sudah_punya_akun">Sudah Punya Akun?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="nim">NIM</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="login_disini"><u>Login disini!</u></string>
+    <string name="daftar_disini"><u>Daftar disini!</u></string>
+    <string name="daftar_hadir">Daftar Hadir</string>
+    <string name="daftar_pertemuan">Daftar Pertemuan</string>
+    <string name="daftar_hadir_pertemuan_1">Daftar Hadir Pertemuan 1</string>
+    <string name="daftar_hadir_pertemuan_2">Daftar Hadir Pertemuan 2</string>
+    <string name="daftar_hadir_pertemuan_3">Daftar Hadir Pertemuan 3</string>
+    <string name="daftar_hadir_pertemuan_4">Daftar Hadir Pertemuan 4</string>
+    <string name="daftar_hadir_pertemuan_5">Daftar Hadir Pertemuan 5</string>
+    <string name="daftar_hadir_pertemuan_6">Daftar Hadir Pertemuan 6</string>
+    <string name="daftar_hadir_pertemuan_7">Daftar Hadir Pertemuan 7</string>
+    <string name="daftar_hadir_pertemuan_8">Daftar Hadir Pertemuan 8</string>
+    <string name="daftar_hadir_pertemuan_9">Daftar Hadir Pertemuan 9</string>
+    <string name="daftar_hadir_pertemuan_10">Daftar Hadir Pertemuan 10</string>
+    <string name="daftar_hadir_pertemuan_11">Daftar Hadir Pertemuan 11</string>
+    <string name="daftar_hadir_pertemuan_12">Daftar Hadir Pertemuan 12</string>
+    <string name="daftar_hadir_pertemuan_13">Daftar Hadir Pertemuan 13</string>
+    <string name="daftar_hadir_pertemuan_14">Daftar Hadir Pertemuan 14</string>
+    <string name="daftar_hadir_pertemuan_15">Daftar Hadir Pertemuan 15</string>
+    <string name="daftar_hadir_pertemuan_16">Daftar Hadir Pertemuan 16</string>
+</resources>
